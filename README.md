@@ -4,7 +4,7 @@
 
 - [Features](#features)
 - [Azure account requirements](#azure-account-requirements)
-- [Azure deployment](#azure-deployment)
+- [Azure deployment](#azure-deployment) 
   - [Cost estimation](#cost-estimation)
   - [Project setup](#project-setup)
     - [GitHub Codespaces](#github-codespaces)
